@@ -12,3 +12,9 @@ https://www.cometchat.com/blog/best-programming-languages-to-build-chat
 https://www.sitepoint.com/vue-vs-react/#:~:text=The%20main%20difference%20between%20Vue,extended%20as%20a%20project%20grows.
 https://www.youtube.com/watch?v=Jk0smQXxd9k&ab_channel=StefanMischook
 https://www.youtube.com/watch?v=N4T-78LOoN8&ab_channel=VueMastery
+* 3 pm: Decided on Vue. Researching Golang vs Python. Also now wondering I should consider doing TypeScript instead of JavaScript.
+https://www.interviewbit.com/blog/golang-vs-python/#:~:text=As%20Python%20is%20a%20scripting,it%20more%20readable%20and%20flexible.
+https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/
+https://hackr.io/blog/golang-vs-python
+https://www.simplilearn.com/tutorials/golang-tutorial/golang-vs-python
+https://www.bacancytechnology.com/blog/go-vs-python
