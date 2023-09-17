@@ -18,3 +18,4 @@ https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-g
 https://hackr.io/blog/golang-vs-python
 https://www.simplilearn.com/tutorials/golang-tutorial/golang-vs-python
 https://www.bacancytechnology.com/blog/go-vs-python
+* 3:20 pm: Still researching Golang vs Python. 
