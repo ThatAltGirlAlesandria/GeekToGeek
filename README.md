@@ -19,3 +19,4 @@ https://hackr.io/blog/golang-vs-python
 https://www.simplilearn.com/tutorials/golang-tutorial/golang-vs-python
 https://www.bacancytechnology.com/blog/go-vs-python
 * 3:20 pm: Still researching Golang vs Python. 
+* 4:10 Will be using Golang and JavaScript. Learning three new languages is quite ambitious.
