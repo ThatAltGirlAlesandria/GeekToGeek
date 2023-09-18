@@ -22,3 +22,4 @@ https://www.bacancytechnology.com/blog/go-vs-python
 * 4:10 pm: Will be using Golang and JavaScript. Learning three new languages is quite ambitious.
 * 4:25 pm: Working more on the proposal now that I know what languages I will be using.
 * 5:05 pm: WIP capstone-proposal.md.
+* 6:10 pm: Working on a physical outline for how the page should look.
