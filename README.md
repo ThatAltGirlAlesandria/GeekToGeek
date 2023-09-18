@@ -23,3 +23,4 @@ https://www.bacancytechnology.com/blog/go-vs-python
 * 4:25 pm: Working more on the proposal now that I know what languages I will be using.
 * 5:05 pm: WIP capstone-proposal.md.
 * 6:10 pm: Working on a physical outline for how the page should look.
+* 6:55 pm: Completed "outline" of what the site will look like (hopefully). Looking at other dating sites to figure out some quiz questions.
