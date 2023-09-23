@@ -28,3 +28,4 @@ https://www.bacancytechnology.com/blog/go-vs-python
 #### Saturday 09/23/2023
 
 * 12:39 pm: Reading https://softprodigy.com/a-step-by-step-guide-to-build-a-real-time-chat-app-with-vue-js-and-golang/ to figure out the best way to start the messaging tool in the application.
+* 12:56 pm: Followed steps to start a Vue program and download golang to pc.
