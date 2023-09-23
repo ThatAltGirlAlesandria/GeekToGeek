@@ -24,3 +24,7 @@ https://www.bacancytechnology.com/blog/go-vs-python
 * 5:05 pm: WIP capstone-proposal.md.
 * 6:10 pm: Working on a physical outline for how the page should look.
 * 6:55 pm: Completed "outline" of what the site will look like (hopefully). Looking at other dating sites to figure out some quiz questions.
+
+#### Saturday 09/23/2023
+
+* 12:39 pm: Reading https://softprodigy.com/a-step-by-step-guide-to-build-a-real-time-chat-app-with-vue-js-and-golang/ to figure out the best way to start the messaging tool in the application.
