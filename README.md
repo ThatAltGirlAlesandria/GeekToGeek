@@ -29,3 +29,6 @@ https://www.bacancytechnology.com/blog/go-vs-python
 
 * 12:39 pm: Reading https://softprodigy.com/a-step-by-step-guide-to-build-a-real-time-chat-app-with-vue-js-and-golang/ to figure out the best way to start the messaging tool in the application.
 * 12:56 pm: Followed steps to start a Vue program and download golang to pc.
+* 2 pm: Continuing reading materials on how to write the chat application. https://anupkumarpanwar.medium.com/realtime-chat-app-in-golang-a1e4e9d01fea
+https://deadsimplechat.com/blog/golang-websocket-chat-server/
+https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
