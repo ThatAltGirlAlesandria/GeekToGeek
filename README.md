@@ -32,3 +32,4 @@ https://www.bacancytechnology.com/blog/go-vs-python
 * 2 pm: Continuing reading materials on how to write the chat application. https://anupkumarpanwar.medium.com/realtime-chat-app-in-golang-a1e4e9d01fea
 https://deadsimplechat.com/blog/golang-websocket-chat-server/
 https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
+* 3:05 pm: Looking at the Go documentation https://go.dev/ and doing smaller code sets to get used to the syntax for golang https://gobyexample.com/.
