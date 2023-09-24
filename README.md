@@ -37,3 +37,4 @@ https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
 * 5:05 pm: More information on Vue and JS. https://vuejs.org/guide/introduction.html https://developer.mozilla.org/en-US/docs/Web/JavaScript https://web.dev/responsive-web-design-basics/
 * 5:41 Watching playlist https://www.youtube.com/watch?v=FyUCKxkCFAc&list=PLlameCF3cMEtP64u9VtbwYaviLCbnRsBA&ab_channel=ScalableScripts
 * 6:27 pm: https://levelup.gitconnected.com/create-a-chat-application-in-golang-with-redis-and-reactjs-c75611717f84 https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/
+* 7:51 pm: Looking at more in-depth Vue.Js UI/UX libraries and ideas https://athemes.com/collections/vue-ui-component-libraries/ https://vue-community.org/guide/ecosystem/ui-libraries.html https://madewithvuejs.com/ui-library https://www.codeinwp.com/blog/vue-ui-component-libraries/#gref
