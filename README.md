@@ -33,3 +33,5 @@ https://www.bacancytechnology.com/blog/go-vs-python
 https://deadsimplechat.com/blog/golang-websocket-chat-server/
 https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
 * 3:05 pm: Looking at the Go documentation https://go.dev/ and doing smaller code sets to get used to the syntax for golang https://gobyexample.com/.
+* 4 pm: WIP documentation and syntax
+* 5:05 pm: More information on Vue and JS. https://vuejs.org/guide/introduction.html https://developer.mozilla.org/en-US/docs/Web/JavaScript https://web.dev/responsive-web-design-basics/
