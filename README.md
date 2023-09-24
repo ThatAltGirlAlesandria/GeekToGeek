@@ -35,3 +35,5 @@ https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
 * 3:05 pm: Looking at the Go documentation https://go.dev/ and doing smaller code sets to get used to the syntax for golang https://gobyexample.com/.
 * 4 pm: WIP documentation and syntax
 * 5:05 pm: More information on Vue and JS. https://vuejs.org/guide/introduction.html https://developer.mozilla.org/en-US/docs/Web/JavaScript https://web.dev/responsive-web-design-basics/
+* 5:41 Watching playlist https://www.youtube.com/watch?v=FyUCKxkCFAc&list=PLlameCF3cMEtP64u9VtbwYaviLCbnRsBA&ab_channel=ScalableScripts
+* 6:27 pm: https://levelup.gitconnected.com/create-a-chat-application-in-golang-with-redis-and-reactjs-c75611717f84 https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/
