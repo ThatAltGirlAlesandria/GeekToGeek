@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
 * 5:41 Watching playlist https://www.youtube.com/watch?v=FyUCKxkCFAc&list=PLlameCF3cMEtP64u9VtbwYaviLCbnRsBA&ab_channel=ScalableScripts
 * 6:27 pm: https://levelup.gitconnected.com/create-a-chat-application-in-golang-with-redis-and-reactjs-c75611717f84 https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/
 * 7:51 pm: Looking at more in-depth Vue.Js UI/UX libraries and ideas https://athemes.com/collections/vue-ui-component-libraries/ https://vue-community.org/guide/ecosystem/ui-libraries.html https://madewithvuejs.com/ui-library https://www.codeinwp.com/blog/vue-ui-component-libraries/#gref
+
+#### Saturday 09/24/2023
+* 6:04 pm: https://www.youtube.com/watch?v=R69i5dHdk2c&ab_channel=DennisBabych https://www.youtube.com/watch?v=x3lypVnJ0HM&ab_channel=MemeableData Researching best ways to "create" and maintain a dating website for both sexes and all genders. 
+https://www.oasisconsortium.com/insights/making-safety-universal-in-online-dating-equal-inclusive-safe-rebuilding-online-dating https://rshare.library.torontomu.ca/articles/thesis/Inclusive_By_Design_Creating_A_Dating_App_Built_On_Inclusive_Design_Principles/14663181 https://aws.amazon.com/startups/learn/how-smore-is-building-an-inclusive-dating-app?lang=en-US
