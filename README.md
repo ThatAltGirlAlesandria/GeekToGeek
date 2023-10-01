@@ -43,3 +43,6 @@ https://www.youtube.com/watch?v=y036l6pvVEs&ab_channel=EsotericTech
 * 6:04 pm: https://www.youtube.com/watch?v=R69i5dHdk2c&ab_channel=DennisBabych https://www.youtube.com/watch?v=x3lypVnJ0HM&ab_channel=MemeableData Researching best ways to "create" and maintain a dating website for both sexes and all genders. 
 https://www.oasisconsortium.com/insights/making-safety-universal-in-online-dating-equal-inclusive-safe-rebuilding-online-dating https://rshare.library.torontomu.ca/articles/thesis/Inclusive_By_Design_Creating_A_Dating_App_Built_On_Inclusive_Design_Principles/14663181 https://aws.amazon.com/startups/learn/how-smore-is-building-an-inclusive-dating-app?lang=en-US
 * 7:23 pm: Looking at more dating sites https://www.androidpolice.com/best-lgbtq-dating-apps/ https://smileymovement.org/news/best-inclusive-dating-apps/ https://mashable.com/roundup/best-dating-sites-for-introverts https://chicagoreader.com/reader-partners/twenty-best-lgbtq-dating-sites-and-apps/ https://www.bustle.com/life/best-queer-dating-apps
+
+#### Sunday 10/01/2023
+* 10:30 am: Created file structure and moving chat code to the current file structure. 

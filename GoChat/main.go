@@ -4,29 +4,27 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/gorilla/sessions"
 	"github.com/gorilla/websocket"
 )
 
 var (
-	upgrader = websocket.Upgrader{
-		ReadBufferSize:  1024,
-		WriteBufferSize: 1024,
-	}
-	store = sessions.NewCookieStore([]byte("your-secret-key"))
+	upgrader  = websocket.Upgrader{}
+	clients   = make(map[*websocket.Conn]bool)
+	broadcast = make(chan Message)
 )
+
+type Message struct {
+	Username string `json:"username"`
+	Content  string `json:"content"`
+}
 
 func main() {
 	router := mux.NewRouter()
 
-	// Serve static files
+	// Serve static files (HTML, JS, CSS)
 	router.PathPrefix("/static/").Handler(http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 
-	// Define routes for authentication
-	router.HandleFunc("/login", loginHandler).Methods("GET", "POST")
-	router.HandleFunc("/logout", logoutHandler).Methods("GET")
-
-	// Define routes for the chat room
+	// Define routes
 	router.HandleFunc("/", indexHandler)
 	router.HandleFunc("/ws", wsHandler)
 
