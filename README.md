@@ -46,3 +46,29 @@ https://www.oasisconsortium.com/insights/making-safety-universal-in-online-datin
 
 #### Sunday 10/01/2023
 * 10:30 am: Created file structure and moving chat code to the current file structure. 
+backend/: Contains the Golang backend code.
+
+main.go: Entry point for the backend.
+api/: Organizes the API code.
+handlers/: Handles HTTP request handling.
+middleware/: Middleware for authentication, logging, etc.
+models/: Defines data models and database schema.
+routes/: Defines API routes and routing logic.
+utils/: Utility functions.
+config/: Configuration files, e.g., environment variables.
+static/: Static files, if needed (e.g., images, CSS).
+frontend/: Contains the Vue.js frontend code.
+
+src/: The main source directory for Vue.js.
+assets/: Static assets like images and CSS.
+components/: Reusable Vue.js components.
+views/: Vue.js views or pages.
+router/: Vue Router configuration.
+store/: Vuex store modules for state management.
+services/: Frontend services for API communication.
+main.js: Vue.js entry point.
+public/: Publicly accessible files.
+dist/: Compiled Vue.js application (generated during build).
+babel.config.js: Babel configuration for JavaScript transpilation.
+package.json: Frontend dependencies and scripts.
+vue.config.js: Vue.js configuration, e.g., proxy for API requests.
