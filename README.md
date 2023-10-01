@@ -72,3 +72,5 @@ dist/: Compiled Vue.js application (generated during build).
 babel.config.js: Babel configuration for JavaScript transpilation.
 package.json: Frontend dependencies and scripts.
 vue.config.js: Vue.js configuration, e.g., proxy for API requests.
+
+* 4:50 pm: WIP converting original chat code to new file structure.
