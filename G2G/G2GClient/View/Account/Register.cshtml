@@ -1,0 +1,33 @@
+@{
+  Layout = "_Layout";
+}
+
+@using G2GClient.ViewModels
+@model Register
+
+<h3>New user registration.</h3>
+<hr/>
+
+@if(!ViewData.ModelState.IsValid)
+{
+  @Html.ValidationSummary("Please correct the following error(s):")
+}
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
+{
+  @Html.LabelFor(user => user.Username)
+  @Html.TextgBoxFor(user => user.Username)
+
+  @Html.LabelFor(user => user.Email)
+  @Html.TextBoxFor(user=> user.Email)
+
+  @Html.LabelFor(user=> user.Password)
+  @Html.EditorFor(user=> user.Password)
+
+  @Html.LabelFor(user=> user.ConfirmPassword)
+  @Html.EditorFor(user=> user.ConfirmPassword)
+
+  <input type = "submit" value = "Register">
+}
+
+<p>@Html.ActionLink("Home", "Index")</p>

@@ -10,7 +10,7 @@ if (!app.Environment.IsDevelopment())
 {
   app.UseExceptionHandler("/Home/Error");
   
-  app.UseHosts();
+  app.UseHsts();
 }
 
 app.UseHttpsRedirection();

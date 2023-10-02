@@ -1,0 +1,24 @@
+@{
+  Layout = "_Layout";
+}
+
+@using G2GClient.ViewModels
+
+@model Delete
+
+<h3>Would you like to delete your account?</h3>
+<hr/>
+
+@using (Html.BeginForm())
+{
+  @Html.LabelFor(m => m.Email)
+  @Html.TextBoxFor(m => m.Email)
+
+  @Html.LabelFor(m => m.Password)
+  @Html.EditorFor(m => m.Password)
+
+  <input type="submit" value="Delete"/>
+}
+
+<p>@Html.ActionLink("Register for an account here", "Register")</p>
+<p>@Html.ActionLink("Home", "Index")</p>
