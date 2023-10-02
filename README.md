@@ -81,4 +81,6 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 
 * 8 pm: WIP UserController.cs in G2GClient
 
-* 8:35: Started working on G2GClient Models.
+* 8:35 pm: Started working on G2GClient Models.
+
+* 9:20 pm: WIP ViewModels
