@@ -74,3 +74,5 @@ package.json: Frontend dependencies and scripts.
 vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 
 * 4:50 pm: WIP converting original chat code to new file structure.
+
+* 6:48 Switched to C# instead of Golang. Too much anxiety using a new language for a big project.
