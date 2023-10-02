@@ -78,3 +78,7 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 6:48 pm: Switched to C# instead of Golang. Too much anxiety using a new language for a big project.
 
 * 7 pm: Started working on Controllers for G2GClient
+
+* 8 pm: WIP UserController.cs in G2GClient
+
+* 8:35: Started working on G2GClient Models.
