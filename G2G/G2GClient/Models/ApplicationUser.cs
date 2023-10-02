@@ -1,20 +1,18 @@
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
-using System.Threading.Tasks;
-using G2GClient.Models;
 using G2GClient.ViewModels;
+using Microsoft.AspNetCore.Http;
 
 namespace G2GClient.Models;
 
-public class ApplicationUser : 
+public class ApplicationUser : IdentityUser
 {
-  public async static Task RegisterAsync(RegisterViewModel newUser)
+  public async static Task RegisterAsync(Register newUser)
   {
-    var
-    await
+    var g2gNewUser = NewUserConvert.SerializeObject(newUser);
+    await ApiHelper.RegisterUserAsync(g2gNewUser);
   }
 
-  public static Task<TokenModel> LoginAsync(LoginViewModel user)
+  public static Task<TokenModel> LoginAsync(Login user)
   {
     return ApiHelper.LoginUserAsync(user);
   }

@@ -12,12 +12,12 @@ public class QuizController : Controller
   {
     List<Quiz> quizs = Quiz.GetAll();
 
-    return View(interests);
+    return View(quizs);
   }
 
   public IActionResult Details(int id)
   {
-    char quiz = Quiz.GetDetails(id);
+    var quiz = Quiz.GetDetails(id);
 
     return View(quiz);
   }
@@ -54,7 +54,7 @@ public class QuizController : Controller
   }
 
   [HttpPost, ActionName("Delete")]
-  public ActionResult DeleteConfirmed(ind id)
+  public ActionResult DeleteConfirmed(int id)
   {
     Quiz.Delete(id);
     return RedirectToAction("Index");
