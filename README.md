@@ -101,3 +101,5 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 8: am: Started Proof of Concept to show what the pages could look like. I don't believe I'll get the logic done in time, and I still want to be able to show something.
 
 * 11: am: Started first HTML page.
+
+* 1: pm: Creating G2G Logo(s)
