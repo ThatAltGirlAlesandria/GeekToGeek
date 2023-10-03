@@ -1,0 +1,20 @@
+@{
+  ViewData["Title"] = "New Quiz";
+}
+
+@model G2GClient.Models.Quiz
+
+<h3>Take a compatabilty quiz.</h3>
+
+<h4>Don't see what you consider to be your flavor of nerd listed? Send us a message about what you would like to add at G2G@gmail.com</h4>
+
+@using (Html.BeginForm())
+{
+  <p>@Html.LabelFor(model => model.Description):
+    @Html.TextBoxFor(model => model.Description)
+  </p>
+
+  <input type = "submit" value = "Add Quiz">
+}
+
+<p>@Html.ActionLink("Home", "Index")</p>
