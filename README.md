@@ -103,3 +103,7 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 11: am: Started first HTML page.
 
 * 1: pm: Creating G2G Logo(s)
+
+* 2: 53 pm: Finished two logos. One main, and one to be consistent through all pages.
+
+* 3: 20 pm: Finishing first profile.
