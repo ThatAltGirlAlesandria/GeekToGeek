@@ -94,3 +94,5 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 6: pm: Working on View/ Home, Quiz, Shared, and Users.
 
 * 6: 30 pm: Switched to G2GApi to remove errors. WIP Auth and Controllers.
+
+* 8: 10 pm: WIP G2GApi
