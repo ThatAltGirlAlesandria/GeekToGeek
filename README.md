@@ -96,3 +96,8 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 6: 30 pm: Switched to G2GApi to remove errors. WIP Auth and Controllers.
 
 * 8: 10 pm: WIP G2GApi
+
+#### Tuesday 10/03/2023
+* 8: am: Started Proof of Concept to show what the pages could look like. I don't believe I'll get the logic done in time, and I still want to be able to show something.
+
+* 11: am: Started first HTML page.
