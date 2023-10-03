@@ -88,3 +88,7 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 10:10 pm: Random bug fixes 
 
 * 11: pm: Finished View/Account HTML pages.
+
+#### Monday 10/02/2023
+
+* 6: pm: Working on View/ Home, Quiz, Shared, and Users.
