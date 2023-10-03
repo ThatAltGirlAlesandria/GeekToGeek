@@ -107,3 +107,5 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 2: 53 pm: Finished two logos. One main, and one to be consistent through all pages.
 
 * 3: 20 pm: Finishing first profile.
+
+* 4: pm: Decided to make profiles for Henry Cavill, Emma Watson, Vin Diesel, and Margot Robbie. Started creating quiz questions.
