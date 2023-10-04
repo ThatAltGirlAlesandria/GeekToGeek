@@ -120,4 +120,6 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 
 * 9: 30 am: Adding CSS.
 
-* 10: 55: completed Login css, adding css to other pages.
+* 10: 55 am: Completed Login css, adding css to other pages.
+
+* 11: 40 am: Completed Registration page.
