@@ -113,3 +113,9 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 4:40 pm: Started on Vin's profile.
 
 * 5:15 pm: Finished profiles. Searching for images.
+
+#### Wednesday 10/04/2023
+
+* 9: am: Connecting CSS sheet.
+
+* 9: 30 am: Adding CSS.
