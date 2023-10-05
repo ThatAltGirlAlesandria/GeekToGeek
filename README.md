@@ -110,3 +110,4 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 5:35 pm: Threw hands long enough that the buttons are centered.
 * 6: 10pm: WIP UI quiz.html
 * 6: 40pm: minor bug fixes.
+* 7: 15pm: Trying to make two columns in the profiles section.
