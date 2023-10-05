@@ -109,3 +109,4 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 4:30 pm: Fighting with CSS to center buttons.
 * 5:35 pm: Threw hands long enough that the buttons are centered.
 * 6: 10pm: WIP UI quiz.html
+* 6: 40pm: minor bug fixes.

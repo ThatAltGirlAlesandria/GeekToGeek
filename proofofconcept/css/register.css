@@ -16,6 +16,7 @@ section{
     background-size: cover;
 }
 .form-box{
+    margin: 20px;
     position: relative;
     width: 400px;
     height: auto;
@@ -92,7 +93,7 @@ top: -5px;
     text-decoration: underline;
 }
 button a{
-  color:black;
+    color:black;
 }
 button{
     width: 80%;
@@ -118,4 +119,10 @@ button{
 }
 .register p a:hover{
     text-decoration: underline;
+}
+
+.center{
+    flex-direction: center;
+    align-items: center;
+    text-align: center;
 }
