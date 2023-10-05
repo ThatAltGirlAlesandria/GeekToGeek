@@ -101,14 +101,15 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 #### Wednesday 10/04/2023
 
 * 9: am: Connecting CSS sheet.
-* 9: 30 am: Adding CSS.
-* 10: 55 am: Completed Login css, adding css to other pages.
-* 11: 40 am: Completed Registration page.
+* 9:30 am: Adding CSS.
+* 10:55 am: Completed Login css, adding css to other pages.
+* 11:40 am: Completed Registration page.
 * 2: pm: Started working on Index page.
 * 3: pm: WIP Index page.
 * 4:30 pm: Fighting with CSS to center buttons.
 * 5:35 pm: Threw hands long enough that the buttons are centered.
-* 6: 10pm: WIP UI quiz.html
-* 6: 40pm: minor bug fixes.
-* 7: 15pm: Trying to make two columns in the profiles section.
-* 8: 10pm: Finished Vin's profile.
+* 6:10 pm: WIP UI quiz.html
+* 6:40 pm: minor bug fixes.
+* 7:15 pm: Trying to make two columns in the profiles section.
+* 8:10 pm: Finished Vin's profile.
+* 9:05 pm: Completed all profiles.
