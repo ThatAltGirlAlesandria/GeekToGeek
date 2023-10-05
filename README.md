@@ -113,3 +113,4 @@ vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 * 7:15 pm: Trying to make two columns in the profiles section.
 * 8:10 pm: Finished Vin's profile.
 * 9:05 pm: Completed all profiles.
+* 9:30 pm: Starting Message proof of concept. Not confident it will be done for presentations tomorrow.
