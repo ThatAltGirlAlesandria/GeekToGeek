@@ -55,7 +55,6 @@ h3{
 }
 
 button{
-  position: absolute;
   width: 30%;
   height: 40px;
   border-radius: 40px;
@@ -68,8 +67,16 @@ button{
   margin: 10px 0;
 }
 .center{
-  display: flex;
   flex-direction: center;
+  align-items: center;
   text-align: center;
-  display: block;
+}
+
+.centerimg {
+  display: flex;
+  align-items: center;
+  flex-direction: center;
+  justify-content: center;
+  text-align: center;
+  height: 100px;
 }
