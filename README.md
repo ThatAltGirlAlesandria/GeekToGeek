@@ -74,52 +74,38 @@ package.json: Frontend dependencies and scripts.
 vue.config.js: Vue.js configuration, e.g., proxy for API requests.
 
 * 4:50 pm: WIP converting original chat code to new file structure.
-
 * 6:48 pm: Switched to C# instead of Golang. Too much anxiety using a new language for a big project.
-
 * 7 pm: Started working on Controllers for G2GClient
-
 * 8 pm: WIP UserController.cs in G2GClient
-
 * 8:35 pm: Started working on G2GClient Models.
-
 * 9:20 pm: WIP ViewModels
-
 * 10:10 pm: Random bug fixes 
-
 * 11: pm: Finished View/Account HTML pages.
 
 #### Monday 10/02/2023
 
 * 6: pm: Working on View/ Home, Quiz, Shared, and Users.
-
 * 6: 30 pm: Switched to G2GApi to remove errors. WIP Auth and Controllers.
-
 * 8: 10 pm: WIP G2GApi
 
 #### Tuesday 10/03/2023
 * 8: am: Started Proof of Concept to show what the pages could look like. I don't believe I'll get the logic done in time, and I still want to be able to show something.
-
 * 11: am: Started first HTML page.
-
 * 1: pm: Creating G2G Logo(s)
-
 * 2:53 pm: Finished two logos. One main, and one to be consistent through all pages.
-
 * 3:20 pm: Finishing first profile.
-
 * 4: pm: Decided to make profiles for Henry Cavill, Emma Watson, Vin Diesel, and Margot Robbie. Started creating quiz questions.
-
 * 4:40 pm: Started on Vin's profile.
-
 * 5:15 pm: Finished profiles. Searching for images.
 
 #### Wednesday 10/04/2023
 
 * 9: am: Connecting CSS sheet.
-
 * 9: 30 am: Adding CSS.
-
 * 10: 55 am: Completed Login css, adding css to other pages.
-
 * 11: 40 am: Completed Registration page.
+* 2: pm: Started working on Index page.
+* 3: pm: WIP Index page.
+* 4:30 pm: Fighting with CSS to center buttons.
+* 5:35 pm: Threw hands long enough that the buttons are centered.
+* 6: 10pm: WIP UI quiz.html
