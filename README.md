@@ -3,7 +3,15 @@
 #### _By_ _Alesandria Wild_
 
 ## **Technologies Used**
-
+* C#
+* JavaScript
+* HTML
+* CSS
+* MarkDown
+* Learnhowtoprogram.com
+* YouTube
+* ZeroToMastery.com
+* Golang
 
 ## **Description**
 
