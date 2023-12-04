@@ -11,23 +11,18 @@
 * Learnhowtoprogram.com
 * YouTube
 * ZeroToMastery.com
-* Golang
 
 ## **Description**
 
-A dating website for nerds/geeks.
+A dating website for nerds/geeks. This site allows the users to create a profile, take a short quiz, match with other users, and message other users.
 
 ## **Setup/Installation Requirements**
 
-
-## API
-
-## Debugging
-
+- As it still has no background logic it's a WIP.
 
 ## **Known Bugs**
 
-- Logic is not functional/ written. WIP. 
+- Only CSS and HTML completed so far. WIP adding JS/ React. 
 
 ## License
 
